@@ -1,6 +1,6 @@
 # Olá, Bem Vindos... 👋
 
-Eu sou a Carol, moro no interior do Rio, apaixonada por tecnologia e organização. Estudei Medicina por 4 anos na Rússia, estou transição de carreira para tecnologia. Nas horas vagas, dou aulas particulares de inglês.
+Eu sou a Carol, moro no interior do Rio, apaixonada por tecnologia e organização.
 
 Meu objetivo é atuar como Desenvolvedora Backend.
 
@@ -9,7 +9,7 @@ Idiomas: Português | Inglês | Russo.
 
 ---
 
-**Desenvolvedora Backend em formação pela Cubos Academy | Sistemas de Informação - IFF**
+**Desenvolvedora Backend em formação na horas vagas e professora de inglês**
 
 ---
 
@@ -23,5 +23,3 @@ Idiomas: Português | Inglês | Russo.
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinne-magalhaes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carolmagalh/)
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
